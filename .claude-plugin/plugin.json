@@ -1,0 +1,22 @@
+{
+  "name": "agent-memory-discipline",
+  "displayName": "Agent Memory Discipline",
+  "version": "1.0.0",
+  "description": "Standing rules for when an agent recalls from long-term memory before acting and when it saves durable decisions, corrections and failures afterwards. Works with any memory backend.",
+  "author": {
+    "name": "Mnemoverse",
+    "email": "helloworld@uinside.org",
+    "url": "https://mnemoverse.com"
+  },
+  "homepage": "https://github.com/mnemoverse/agent-memory-discipline",
+  "repository": "https://github.com/mnemoverse/agent-memory-discipline",
+  "license": "CC0-1.0",
+  "keywords": [
+    "agent-memory",
+    "long-term-memory",
+    "context-engineering",
+    "mcp",
+    "agent-skills"
+  ],
+  "skills": "./skills/"
+}
