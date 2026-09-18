@@ -1,7 +1,7 @@
 {
   "name": "agent-memory-discipline",
   "displayName": "Agent Memory Discipline",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Standing rules for when an agent recalls from long-term memory before acting and when it saves durable decisions, corrections and failures afterwards. Works with any memory backend.",
   "author": {
     "name": "Mnemoverse",
