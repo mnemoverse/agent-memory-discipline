@@ -4,7 +4,7 @@ description: "Teaches when to recall from long-term memory before acting and whe
 allowed-tools: Read, Write
 argument-hint: "[optional topic to recall or decision to save]"
 version: 1.1.0
-author: Mnemoverse <helloworld@uinside.org>
+author: Mnemoverse <hello@mnemoverse.com>
 license: CC0-1.0
 compatibility: Designed for Claude Code
 tags: [agent-memory, long-term-memory, context-engineering, mcp, agent-skills]

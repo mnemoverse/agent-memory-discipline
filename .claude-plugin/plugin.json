@@ -5,7 +5,7 @@
   "description": "Standing rules for when an agent recalls from long-term memory before acting and when it saves durable decisions, corrections and failures afterwards. Works with any memory backend.",
   "author": {
     "name": "Mnemoverse",
-    "email": "helloworld@uinside.org",
+    "email": "hello@mnemoverse.com",
     "url": "https://mnemoverse.com"
   },
   "homepage": "https://github.com/mnemoverse/agent-memory-discipline",
