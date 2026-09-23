@@ -2,7 +2,7 @@
   "name": "agent-memory-discipline",
   "owner": {
     "name": "Mnemoverse",
-    "email": "helloworld@uinside.org"
+    "email": "hello@mnemoverse.com"
   },
   "metadata": {
     "description": "Standing rules for when an agent recalls from long-term memory before acting and when it saves durable decisions, corrections and failures afterwards. Works with any memory backend.",
@@ -15,7 +15,7 @@
       "description": "Standing rules for when an agent recalls from long-term memory before acting and when it saves durable decisions, corrections and failures afterwards. Backend-neutral: a folder of Markdown files, a local MCP server, or a hosted service.",
       "author": {
         "name": "Mnemoverse",
-        "email": "helloworld@uinside.org"
+        "email": "hello@mnemoverse.com"
       },
       "homepage": "https://github.com/mnemoverse/agent-memory-discipline",
       "repository": "https://github.com/mnemoverse/agent-memory-discipline",
