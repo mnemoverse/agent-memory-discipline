@@ -42,6 +42,8 @@ Skip recall for one-off factual questions, arithmetic, or anything fully specifi
 
 Search with the words the user actually used, plus the project or repository name. If the first search returns nothing useful, try one broader query, then stop and proceed without memory rather than looping.
 
+Do not recall what the conversation already holds. An entry that is already in the context window is not read again, and when a later turn needs a fresh recall, the memory block in the prompt is replaced, not appended, so the model never sees two copies of the same entry. A hosted memory server cannot do this for the agent: it does not know what the conversation contains, so the guard belongs to the client that builds the prompt.
+
 ### Step 2: Save after deciding
 
 Write to memory when one of these has just happened:
